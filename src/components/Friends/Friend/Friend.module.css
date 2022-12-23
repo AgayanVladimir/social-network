@@ -1,0 +1,18 @@
+.friendsBlock {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.profilePhotoBox {
+  max-width: 100px;
+  border-radius: 50%;
+}
+.profilePhoto {
+  width: 100%;
+  border-radius: 50%;
+}
+.friendName {
+  margin-left: 20px;
+  font-size: 20px;
+  color: white;
+}

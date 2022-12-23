@@ -1,0 +1,13 @@
+.avatarPhoto {
+  width: 100px;
+  height: 100px;
+}
+
+.active {
+  font-weight: 700;
+  cursor: pointer;
+}
+.count {
+  color: red;
+  cursor: pointer;
+}
